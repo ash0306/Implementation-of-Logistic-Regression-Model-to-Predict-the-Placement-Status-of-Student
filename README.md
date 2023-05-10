@@ -72,17 +72,17 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-(images/placement_data.png)
-(images/salary-data.png)
-(images/isnull.png)
-(images/isDupicate.png)
-(images/print-data.png)
-(images/data-status.png)
-(images/y-prediction.png)
-(images/accuracy.png)
-(images/confusion.png)
-(images/classi-report.png)
-(images/lr-pred.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/placement_data.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/salary-data.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/isnull.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/isDupicate.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/print-data.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/data-status.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/y-prediction.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/accuracy.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/confusion.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/classi-report.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](images/lr-pred.png)
 
 
 ## Result:
